@@ -42,14 +42,31 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/b703f1f3-def1-4fd9-a9da-6b5c4d57b632)
 
 ![image](https://github.com/Sellakumar1987/Ex.-No.2---SIMULATION-ANALYSIS-ON-SLIDER-CRANK-MECHANISM/assets/113594316/188cba1a-fe54-4549-a6e5-3bb6b8d7b120)
+## Input:
+![WhatsApp Image 2025-12-27 at 8 19 42 AM (2)](https://github.com/user-attachments/assets/1d045ff0-1174-448f-af9c-036cf8eb91f3)
 
 ## Output:
-<img width="1275" height="916" alt="Screenshot 2025-12-19 195027" src="https://github.com/user-attachments/assets/456cfec2-d344-42a0-ae72-85aa01754afa" />
-<img width="1296" height="866" alt="Screenshot 2025-12-19 194955" src="https://github.com/user-attachments/assets/ca2b52a8-4e90-4caa-9cbd-3d47f3792083" />
+![WhatsApp Image 2025-12-27 at 8 19 42 AM (1)](https://github.com/user-attachments/assets/a09be7bf-daa3-42d7-8f1e-075e9df26fb2)
 
 
 ### Name:SADHANA R
 ### Register Number: 25017643
+## Explanation:
+This experiment shows how fast each link moves when the input link rotates.
+
+r1 is fixed (ground)
+
+r2 is the input crank with given angular velocity ω₂
+
+r3 (coupler) and r4 (rocker) move due to r2
+
+For a given input angle θ₂ and angular speed ω₂, the simulation calculates:
+
+ω₃, ω₄ → angular velocities of coupler and rocker
+
+V₂, V₃, V₄ → linear velocities of the links
+
+The velocity diagram graphically shows the direction and magnitude of velocities.
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
