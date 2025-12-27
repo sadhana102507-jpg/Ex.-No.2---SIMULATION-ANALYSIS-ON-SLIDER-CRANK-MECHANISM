@@ -68,5 +68,8 @@ V₂, V₃, V₄ → linear velocities of the links
 
 The velocity diagram graphically shows the direction and magnitude of velocities.
 
+### Name:SADHANA R
+### Register Number: 25017643
+
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
