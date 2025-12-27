@@ -49,8 +49,6 @@
 ![WhatsApp Image 2025-12-27 at 8 19 42 AM (1)](https://github.com/user-attachments/assets/a09be7bf-daa3-42d7-8f1e-075e9df26fb2)
 
 
-### Name:SADHANA R
-### Register Number: 25017643
 ## Explanation:
 This experiment shows how fast each link moves when the input link rotates.
 
